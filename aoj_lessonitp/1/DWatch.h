@@ -8,7 +8,7 @@
 
 class DWatch {
 public:
-    int main();
+    static int main();
 
     int main2();
 };
