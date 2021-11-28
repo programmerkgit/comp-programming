@@ -3,7 +3,6 @@
 //
 
 #include <cstdio>
-#include "stdio.h"
 #include "CSortThreeNumbers.h"
 #include "algorithm"
 
