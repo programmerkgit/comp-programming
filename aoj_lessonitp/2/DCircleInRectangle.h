@@ -8,7 +8,7 @@
 
 class DCircleInRectangle {
 public:
-    static int main()
+    static int main();
 };
 
 
