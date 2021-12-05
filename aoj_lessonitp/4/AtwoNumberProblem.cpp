@@ -5,7 +5,7 @@
 
 #include <cstdio>
 
-int main() {
+int twoNumberProblem() {
     // sum of two number
     int a, b;
     double a_d, b_d;

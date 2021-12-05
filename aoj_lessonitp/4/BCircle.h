@@ -4,6 +4,6 @@
 
 #ifndef COMP_PROGRAMMINGS_BCIRCLE_H
 #define COMP_PROGRAMMINGS_BCIRCLE_H
-int main();
+int circle();
 
 #endif //COMP_PROGRAMMINGS_BCIRCLE_H

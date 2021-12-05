@@ -6,7 +6,7 @@
 #define COMP_PROGRAMMINGS_ATWONUMBERPROBLEM_H
 
 
-int main();
+int twoNumberProblem();
 
 
 #endif //COMP_PROGRAMMINGS_ATWONUMBERPROBLEM_H

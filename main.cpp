@@ -1,6 +1,7 @@
 #include "aoj_lessonitp/3/DHowManyDivisors.h"
+#include "DataStructure/BottomUpCutRod.h"
 
 int main() {
-    DHowManyDivisors::main();
+    BottomUpCutRod::main();
     return 0;
 }

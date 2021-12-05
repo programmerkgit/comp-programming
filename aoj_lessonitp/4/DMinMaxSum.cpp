@@ -8,7 +8,7 @@
 #include "DMinMaxSum.h"
 using namespace std;
 
-int main() {
+int mainminmax() {
     int n;
     scanf("%d", &n);
     int maxn = -1000001;

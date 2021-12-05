@@ -5,6 +5,6 @@
 #ifndef COMP_PROGRAMMINGS_DMINMAXSUM_H
 #define COMP_PROGRAMMINGS_DMINMAXSUM_H
 
-int main();
+int mainminmax();
 
 #endif //COMP_PROGRAMMINGS_DMINMAXSUM_H
